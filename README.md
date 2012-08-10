@@ -4,7 +4,7 @@ Configure and install the [collectd](http://collectd.org/) monitoring daemon.
 
 # REQUIREMENTS #
 
-This cookbook has been tested on Ubuntu 10.04 and Debian
+This cookbook has been tested on Ubuntu 10.04, 12.04 and Debian 6
 
 To use the `collectd::collectd_web` recipe you need the [apache2](https://github.com/opscode/cookbooks/tree/master/apache2) cookbook.
 
